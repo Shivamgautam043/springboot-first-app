@@ -36,3 +36,4 @@ src/main/resources/application.properties
 
 # Ignore config files
 application*.properties
+.env
